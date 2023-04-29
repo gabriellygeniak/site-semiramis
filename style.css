@@ -58,3 +58,14 @@ body {
 .plataformas-div {
     text-align: center;
 }
+
+.estudante-titulos {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.plataforma-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
